@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "condition_variable": "cpp",
+        "chrono": "cpp",
+        "__mutex_base": "cpp",
+        "queue": "cpp",
+        "stack": "cpp",
+        "mutex": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "memory": "cpp",
+        "string": "cpp",
+        "filesystem": "cpp",
+        "iosfwd": "cpp",
+        "thread": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp"
+    }
+}
